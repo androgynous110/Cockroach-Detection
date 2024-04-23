@@ -1,3 +1,1 @@
-pip install opencv-python
-pip install inference_sdk
-pip install numpy
+I'm using openCV and roboflow as API for Cockroach Detection
